@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 48,
+    "description": "This datapack introduces a realistic tidal system tied to the moon cycle. During full moons, water source blocks in ocean and river biomes have a chance to temporarily spread one block further inland, creating high tide conditions that flood beaches and low-lying areas. During new moons, the opposite occurs as water recedes slightly, exposing normally submerged blocks and creating temporary tidal pools. Aquatic mobs like fish, squid, and drowned are affected by these gravitational shifts - during high tide they spawn more frequently and venture closer to shore, while low tide pushes them into deeper waters. Coral and kelp growth rates fluctuate with the tides, thriving during high water periods. Boats left on beaches during low tide may find themselves stranded when waters recede, while high tide can carry unsecured boats away. The system operates passively on loaded chunks near water bodies, checking moon phase each Minecraft day and gradually adjusting water behavior over several in-game hours rather than instantly, creating an organic feeling natural phenomenon that rewards players who learn to work with lunar cycles for fishing, exploring ocean monuments, or building coastal structures."
+  }
+}
