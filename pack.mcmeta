@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 48,
+    "description": "This lightweight datapack adds an immersive atmospheric detail to cold environments by generating small puffs of white particles near player faces when they occupy snowy, frozen, or mountain biomes."
+  }
+}
