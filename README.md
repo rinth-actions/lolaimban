@@ -1,1 +1,4 @@
-# lolaimban
+# Breath Clouds
+Players exhale visible breath particles in cold biomes. The effect intensifies based on altitude and weather conditions.
+---
+This lightweight datapack adds an immersive atmospheric detail to cold environments by generating small puffs of white particles near player faces when they occupy snowy, frozen, or mountain biomes. The system detects biome temperature and combines it with current weather and Y-level to determine breath visibility and intensity. During snowstorms, breath clouds become denser and linger slightly longer. At extreme heights above Y 180, breath appears regardless of biome due to thin cold air. The particle spawning uses minimal commands by only checking conditions every 30 ticks and utilizing simple campfire smoke particles offset to head height. No scoreboard pollution occurs as the pack relies solely on biome and position predicates. Players exploring frozen peaks, snowy taigas, or ice spikes will notice their character breathing visibly into the frigid air, adding a subtle layer of environmental storytelling without any gameplay changes or performance impact.
