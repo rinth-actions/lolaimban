@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 48,
+    "description": "This datapack transforms enchanting into a location-based system where the biome surrounding an enchanting table influences the enchantments offered. Enchanting tables placed in cold biomes like snowy tundras and frozen peaks have increased chances of offering Frost Walker and higher-level Protection enchantments. Desert and badlands tables favor Fire Aspect, Blast Protection, and Unbreaking at boosted levels. Ocean and river biomes enhance Respiration, Aqua Affinity, and Depth Strider availability while occasionally offering Riptide on tridents at reduced lapis cost. Jungle and lush cave tables provide better odds for Fortune, Looting, and Luck of the Sea. The system works by periodically checking the biome at each enchanting table location and applying hidden modifiers to the enchantment seed calculations. Tables in rare biomes like mushroom fields or deep dark gain access to completely exclusive enchantment combinations not achievable elsewhere. This encourages players to build multiple enchanting outposts across different biomes rather than centralizing all enchanting in one location, adding exploration incentive and strategic base placement decisions to the vanilla enchanting experience."
+  }
+}
