@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 48,
+    "description": "This datapack introduces a passive lighting system tied to dropped item entities rather than player actions. When specific items are dropped as entities in the world, they emit light appropriate to their nature."
+  }
+}
