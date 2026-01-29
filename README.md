@@ -1,4 +1,4 @@
-# lolaimban
-- [breathclouds](https://github.com/rinth-actions/lolaimban/tree/datapack-breathclouds-a5v4vu)
-- [biomeresonanceenchanting](https://github.com/rinth-actions/lolaimban/tree/datapack-biomeresonanceenchanting-ikfa5m)
-- [tidalpull](https://github.com/rinth-actions/lolaimban/tree/datapack-tidalpull-v2251x)
+# Luminous Reagents
+Certain items emit ambient light when dropped in the world. Different materials produce different light levels based on their inherent magical or thermal properties.
+---
+This datapack introduces a passive lighting system tied to dropped item entities rather than player actions. When specific items are dropped as entities in the world, they emit light appropriate to their nature. Glowstone dust radiates a warm glow, blaze rods flicker with fiery luminescence, nether stars shine brilliantly, magma cream pulses with dim heat, and ender pearls give off an eerie dim teal light. The light levels vary by item type, with nether stars being brightest and magma cream being dimmest. This creates interesting possibilities for temporary lighting solutions during exploration, decorative applications where players scatter glowing items for ambiance, and strategic uses in mob farming where dropped items can prevent spawns in specific areas. Items retain their glow until picked up or despawned naturally. The system uses light blocks placed at item locations with periodic checks to clean up when items move or disappear, keeping performance impact minimal while adding a layer of magical realism to material properties in your world.
