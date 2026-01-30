@@ -1,5 +1,4 @@
-# lolaimban
-- [breathclouds](https://github.com/rinth-actions/lolaimban/tree/datapack-breathclouds-a5v4vu)
-- [biomeresonanceenchanting](https://github.com/rinth-actions/lolaimban/tree/datapack-biomeresonanceenchanting-ikfa5m)
-- [tidalpull](https://github.com/rinth-actions/lolaimban/tree/datapack-tidalpull-v2251x)
-- [luminousreagents](https://github.com/rinth-actions/lolaimban/tree/datapack-luminousreagents-y8seg4)
+# Biome Resonance
+Each biome has a unique ambient frequency that affects nearby mob behavior and block interactions. Mobs become calmer or more aggressive based on the harmonic properties of their current biome.
+---
+Biome Resonance introduces an invisible sound frequency system where every biome emits a distinct tonal signature that influences the world around it. In harmonious biomes like flower forests and meadows, hostile mobs have reduced aggression ranges and slower attack speeds, while passive mobs breed more frequently. Dissonant biomes such as soul sand valleys and deep dark caves cause neutral mobs to become territorial and aggressive toward each other, creating natural conflict zones. The frequency also affects certain blocks: note blocks in resonant biomes play slightly different pitches, jukeboxes have extended play ranges in musical biomes, and bells ring longer in plains and villages. When biome edges meet, the conflicting frequencies create transition zones where unpredictable behavior occurs, such as random mob confusion or spontaneous note block activations from nearby redstone. This creates a living soundscape where the terrain itself shapes creature dynamics without any player interaction required, making exploration and base location strategically meaningful based on the acoustic properties of your chosen biome.
